@@ -36,4 +36,4 @@ console.log(fullName); // Output: "Jane Smith"
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile alphabet per ottenere la sua lunghezza
 const numberOfLettersInAlphabet = alphabet;
-console.log(numberOfLettersInAlphabet.length); // Output: 26
+console.log(numberOfLettersInAlphabet.length()); // Output: 26
